@@ -5,5 +5,14 @@
 /.env.*.local
 /public/bundles/
 /var/
+
 /vendor/
 ###< symfony/framework-bundle ###
+
+###< phpstorm ide files >###
+/.idea/
+###< phpstorm ide files >###
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
